@@ -9,7 +9,7 @@ highest projected return based on a Monte Carlo simulation of future GDP.
 
 In order to do this we will:
 
-  1. "Flight to Safety" analysis - Look at correlations of each of the equity markets against both gold and the !0 year indivicually.
+  1. "Flight to Safety" analysis - Look at correlations of each of the equity markets against both gold and the 10 year indivicually.
   2. "How bad is this panic" - See how gold correlates to the 10 year
   3. Regress each asset class against GDP to see how each reacts to changes in GDP
   4. Simulate different model portfolios to find expected return based on a GDP Monte Carlo simulation.
