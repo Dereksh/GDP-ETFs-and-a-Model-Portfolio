@@ -28,9 +28,8 @@ In order to do this we will:
    * Use one new Python library that hasn't been covered in class. 
 
  ## Files
-  * [gdp_data.csv](Data/gdp_data.csv)
-  * [gdp_data_new.csv](Data/gdp_data_new.csv)
-  * [gdp_data_new_k.csv](Data/gdp_data_new_k.csv)
+  * [GDP Data.csv](Data/gdp_data.csv)
+  * [Market Data.csv](Data/market_data_modified.csv)
   * [Market_Data_Indexed.csv](Data/Market_Data_Indexed.csv)
   
  
