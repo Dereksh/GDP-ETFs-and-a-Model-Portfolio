@@ -19,7 +19,7 @@
 ![image](https://user-images.githubusercontent.com/70820754/99760195-627e7f00-2ab0-11eb-89df-554e442d931e.png)
 
 ![image](https://user-images.githubusercontent.com/70820754/99760221-71653180-2ab0-11eb-9a2f-f5aea3d93f05.png)
-
+![image](https://user-images.githubusercontent.com/70820754/99760361-c86b0680-2ab0-11eb-8da6-d94d5ecd837b.png)
 
    ## Portfolios
    
