@@ -1,14 +1,17 @@
 # Model Portfolio![stock market](https://g.foolcdn.com/editorial/images/518050/stock-market-buy.jpg)
 
-# Analysis 
+ # Analysis 
 
    ## "Flight to Safety"  
    
-   1. Calculate correlation & Plot heat map of each of the equity markets.
-   2. Plot Correlation of Gold to S&P500
+   * Calculate correlation & Plot heat map of each of the equity markets.
+  
       
 ![image](https://user-images.githubusercontent.com/70820754/99757381-7aec9a80-2aac-11eb-8d97-7d51d69e39bd.png)
 ![image](https://user-images.githubusercontent.com/70820754/99757602-fbab9680-2aac-11eb-9a94-899f02ca6eb4.png)
+
+   * Plot Correlation of Gold to S&P500
+ ![image](https://user-images.githubusercontent.com/70820754/99760960-2fd58600-2ab2-11eb-99ab-bfdfe14fd247.png)
 
    ## Monte Carlo simulation
    1. Calculate Expected Future Value
@@ -36,10 +39,8 @@
   
  ## Technical Requirments
   
-
    * Create a Jupyter Notebook describing the data exploration and cleanup process. 
-   * illustrate the final data analysis on Jupyter Notebook. 
-   * Create a dashaboard and populate it with the graphs generated using PyViz, Panel, Plotly Express, and Hvplot.
+   * Illustrate the final data analysis on Jupyter Notebook. 
    * Save PNG images of visualizations in .readme file.
    * Use one new Python library that hasn't been covered in class. 
 
