@@ -10,6 +10,13 @@
 ![image](https://user-images.githubusercontent.com/70820754/99757381-7aec9a80-2aac-11eb-8d97-7d51d69e39bd.png)
 ![image](https://user-images.githubusercontent.com/70820754/99757602-fbab9680-2aac-11eb-9a94-899f02ca6eb4.png)
 
+   ## Monte Carlo simulation
+   1. Calculate Expected Future Value
+   2. plot histogram
+   3. plot monte carlo simulation
+   
+![image](https://user-images.githubusercontent.com/70820754/99760573-3dd6d700-2ab1-11eb-8671-afcbfe64aeca.png)
+![image](https://user-images.githubusercontent.com/70820754/99760599-4b8c5c80-2ab1-11eb-9f96-cf6c7297f86b.png)
 
    ## Linear Regression 
    
@@ -26,17 +33,14 @@
    1 Simulate different model portfolios to find expected return based on a GDP Monte Carlo simulation.
   
   
+  
  ## Technical Requirments
   
 
    * Create a Jupyter Notebook describing the data exploration and cleanup process. 
-
    * illustrate the final data analysis on Jupyter Notebook. 
-
    * Create a dashaboard and populate it with the graphs generated using PyViz, Panel, Plotly Express, and Hvplot.
-   
    * Save PNG images of visualizations in .readme file.
-
    * Use one new Python library that hasn't been covered in class. 
 
   ## Files
