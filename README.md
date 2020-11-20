@@ -1,17 +1,24 @@
-# GDP-vs-Indices
+# Model Portfolio![stock market](https://g.foolcdn.com/editorial/images/518050/stock-market-buy.jpg)
 
-![stock market](https://g.foolcdn.com/editorial/images/518050/stock-market-buy.jpg)
+# Analysis 
 
-## PROPOSAL
+   ## "Flight to Safety"  
+   
+   1. Calculate correlation & Plot heat map of each of the equity markets.
+   2. Plot Correlation of Gold to S&P500
+      
+![image](https://user-images.githubusercontent.com/70820754/99757381-7aec9a80-2aac-11eb-8d97-7d51d69e39bd.png), ![image](https://user-images.githubusercontent.com/70820754/99757602-fbab9680-2aac-11eb-9a94-899f02ca6eb4.png)
 
-Determine the lowest volatility portfolio of the S&P 500, Dow Jones, Industrial Average, NASDQ, Gold and 10 Year US Government Bond with the highest projected return based on a Monte Carlo simulation of future GDP. 
 
-In order to do this we will:
+   ## Linear Regression 
+   
+   1. Regress each asset class against GDP to see how each reacts to changes in GDP
+ 
+![3](https://user-images.githubusercontent.com/70820754/99758354-b38d7380-2aae-11eb-9bbe-e77d5b0de7ae.png) 
 
-  1. "Flight to Safety" analysis - Look at correlations of each of the equity markets against both gold and the 10 year individually.
-  2. "How bad is this panic" - See how gold correlates to the 10 year
-  3. Regress each asset class against GDP to see how each reacts to changes in GDP
-  4. Simulate different model portfolios to find expected return based on a GDP Monte Carlo simulation.
+   ## Portfolios
+   
+   1 Simulate different model portfolios to find expected return based on a GDP Monte Carlo simulation.
   
   
  ## Technical Requirments
@@ -27,9 +34,13 @@ In order to do this we will:
 
    * Use one new Python library that hasn't been covered in class. 
 
- ## Files
+  ## Files
   * [GDP Data.csv](Data/gdp_data.csv)
   * [Market Data.csv](Data/market_data_modified.csv)
-  * [Market_Data_Indexed.csv](Data/Market_Data_Indexed.csv)
+  * [Market Data Indexed.csv](Data/Market_Data_Indexed.csv)
   
  
+
+
+    ## Resources
+    
