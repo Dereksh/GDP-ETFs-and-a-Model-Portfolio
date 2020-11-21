@@ -1,6 +1,11 @@
 # Model Portfolio![stock market](https://g.foolcdn.com/editorial/images/518050/stock-market-buy.jpg)
 
- # Analysis 
+# Proposal
+Predict future portfolio returns by 
+(1) performing a Monte Carlo Simulation of GDP based on the historical data dating back to 1941 and 
+(2) analyzing its correlation to the following indices: S&P500  * Gold  * DJIA  * NASDAQ  * 10Y UST
+                      
+# Analysis: 
 
    ## "Flight to Safety"  
    
@@ -15,16 +20,25 @@
  ![image](https://user-images.githubusercontent.com/70820754/99760960-2fd58600-2ab2-11eb-99ab-bfdfe14fd247.png)
 
    ## Monte Carlo simulation
-   1. Calculate Expected Future Value
-   2. plot histogram
-   3. plot monte carlo simulation
+   * Load and Read csv file & API's
+   * Plot Historical Closing Prices
+   * Calculate Log Returns
+   * Plot Log Returns
+   * plot histogram
+   * plot monte carlo simulation
    
 ![image](https://user-images.githubusercontent.com/70820754/99760573-3dd6d700-2ab1-11eb-8671-afcbfe64aeca.png)
 ![image](https://user-images.githubusercontent.com/70820754/99760599-4b8c5c80-2ab1-11eb-9f96-cf6c7297f86b.png)
 
    ## Linear Regression 
    
-   1. Regress each asset class against GDP to see how each reacts to changes in GDP
+   * Regress each asset class against GDP to see how each reacts to changes in GDP
+   * Plot 
+    * GDP VS DJIA 
+    * GDP VS S&P500  
+    * GDP VS Gold
+    * GDP VS NASDAQ
+    * GDP VS 10 Year UST
    
 ![image](https://user-images.githubusercontent.com/70820754/99759835-411d9300-2ab0-11eb-9b8f-c765ec446357.png)
 ![image](https://user-images.githubusercontent.com/70820754/99760195-627e7f00-2ab0-11eb-89df-554e442d931e.png)
@@ -34,18 +48,16 @@
 
    ## Portfolios
    
-   1 Simulate different model portfolios to find expected return based on a GDP Monte Carlo simulation.
+   * Simulate different model portfolios to find expected return based on a GDP Monte Carlo simulation.
   
-  
-  
- ## Technical Requirments
+# Technical Requirments
   
    * Create a Jupyter Notebook describing the data exploration and cleanup process. 
    * Illustrate the final data analysis on Jupyter Notebook. 
    * Save PNG images of visualizations in .readme file.
    * Use one new Python library that hasn't been covered in class. 
 
-  ## Files
+# Files
   * [GDP Data.csv](Data/gdp_data.csv)
   * [Market Data.csv](Data/market_data_modified.csv)
   * [Market Data Indexed.csv](Data/Market_Data_Indexed.csv)
