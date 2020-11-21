@@ -33,12 +33,7 @@ Predict future portfolio returns by
    ## Linear Regression 
    
    * Regress each asset class against GDP to see how each reacts to changes in GDP
-   * Plot 
-    * GDP VS DJIA 
-    * GDP VS S&P500  
-    * GDP VS Gold
-    * GDP VS NASDAQ
-    * GDP VS 10 Year UST
+   * Plot linear regressions
    
 ![image](https://user-images.githubusercontent.com/70820754/99759835-411d9300-2ab0-11eb-9b8f-c765ec446357.png)
 ![image](https://user-images.githubusercontent.com/70820754/99760195-627e7f00-2ab0-11eb-89df-554e442d931e.png)
