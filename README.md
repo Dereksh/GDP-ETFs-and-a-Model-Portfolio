@@ -48,9 +48,13 @@ Predict future portfolio returns by
 # Technical Requirments
   
    * Create a Jupyter Notebook describing the data exploration and cleanup process. 
-   * Illustrate the final data analysis on Jupyter Notebook. 
+   * [Illustrate the final data analysis on Jupyter Notebook](https://github.com/Dereksh/GDP-ETFs-and-a-Model-Portfolio/blob/main/Main_GDP_vs_Indices.ipynb)
    * Save PNG images of visualizations in .readme file.
-   * Use one new Python library that hasn't been covered in class. 
+   * Use one new Python library that hasn't been covered in class.
+     * scypy
+     * scipy.stats
+     * statmodels.formula.api
+     * math
 
 # Files
   * [GDP Data.csv](Data/gdp_data.csv)
@@ -61,4 +65,5 @@ Predict future portfolio returns by
 
 
     ## Resources
-    
+      #### [ALPACA API](https://alpaca.markets/)
+      #### [FRED](https://fred.stlouisfed.org/)      
