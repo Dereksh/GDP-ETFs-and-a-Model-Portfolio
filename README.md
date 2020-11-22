@@ -50,7 +50,11 @@ Predict future portfolio returns by
    * Create a Jupyter Notebook describing the data exploration and cleanup process. 
    * Illustrate the final data analysis on Jupyter Notebook. 
    * Save PNG images of visualizations in .readme file.
-   * Use one new Python library that hasn't been covered in class. 
+   * Use one new Python library that hasn't been covered in class.
+     * scypy
+     * scipy.stats
+     * statmodels.formula.api
+     * math
 
 # Files
   * [GDP Data.csv](Data/gdp_data.csv)
@@ -61,4 +65,5 @@ Predict future portfolio returns by
 
 
     ## Resources
-    
+      #### [ALPACA API](https://alpaca.markets/)
+      #### [FRED](https://fred.stlouisfed.org/)      
